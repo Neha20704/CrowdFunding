@@ -41,7 +41,7 @@ const address = '0xA305BC95CBf8E6D4d540466C39C02DF3b2744031';
 ```
 
 
-install all dependencies necessary
+install all dependencies necessary.
 
 ```shell
 yarn install
